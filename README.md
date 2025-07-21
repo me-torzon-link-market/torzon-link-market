@@ -55,4 +55,6 @@ This guide is for educational purposes only. We do not support or encourage any 
 
 
 
-Update: url is live and working
+
+
+Update:  21 July Fixed non-working url
